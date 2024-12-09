@@ -1,7 +1,0 @@
-README.md
-python_bindings.cpp
-setup.py
-quiver_cpp.egg-info/PKG-INFO
-quiver_cpp.egg-info/SOURCES.txt
-quiver_cpp.egg-info/dependency_links.txt
-quiver_cpp.egg-info/top_level.txt
